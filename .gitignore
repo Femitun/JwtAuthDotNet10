@@ -1,0 +1,8 @@
+# Ignore appsettings.json to prevent sensitive data from being committed
+appsettings.json
+# Ignore environment-specific appsettings
+appsettings.Development.json
+# Ignore launchSettings.json as it contains local debug configurations
+Properties/launchSettings.json
+# Ignore Visual Studio temporary files and settings
+.vs/
