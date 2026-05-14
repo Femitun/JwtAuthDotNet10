@@ -158,3 +158,5 @@ C:\Users\USER\JwtAuthDotNet10\JwtAuthDotNet10\bin\Debug\net10.0\ru\Microsoft.Cod
 C:\Users\USER\JwtAuthDotNet10\JwtAuthDotNet10\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
 C:\Users\USER\JwtAuthDotNet10\JwtAuthDotNet10\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
 C:\Users\USER\JwtAuthDotNet10\JwtAuthDotNet10\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\USER\JwtAuthDotNet10\JwtAuthDotNet10\obj\Debug\net10.0\JwtAuthDotNet10.sourcelink.json
+C:\Users\USER\JwtAuthDotNet10\JwtAuthDotNet10\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
